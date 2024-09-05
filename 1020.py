@@ -1,0 +1,5 @@
+idade = int(input())
+ano = int(idade / 365)
+mes = int((idade % 365) / 30)
+dias = int((idade % 365) % 30)
+print('{} ano(s)\n{} mes(es)\n{} dia(s)'.format(ano, mes, dias))
