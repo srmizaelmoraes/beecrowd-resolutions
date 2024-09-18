@@ -4,4 +4,3 @@
 
 N = float(input())
 notas = int(N)
-moedas = round(N - notas)
