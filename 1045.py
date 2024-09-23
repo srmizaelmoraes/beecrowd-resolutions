@@ -15,5 +15,5 @@ if (a**2) < ((b**2) + (c**2)):
 if a == b and b == c:
     print("TRIANGULO EQUILATERO")
 
-if (a == b and b != c) or (b == c and c != a) or (c == a and c != b):
+if (a == b and b != c) or (b == c and c != a) or (c == a and a != b):
     print("TRIANGULO ISOSCELES")
