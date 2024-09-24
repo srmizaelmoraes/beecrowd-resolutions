@@ -1,11 +1,8 @@
 numbers = list(map(float, input().split()))
-
 numbers.sort(reverse = True)
-
 a = numbers[0]
 b = numbers[1]
 c = numbers[2]
-
 if (a >= (b + c)):
     print("NAO FORMA TRIANGULO")
 else:
