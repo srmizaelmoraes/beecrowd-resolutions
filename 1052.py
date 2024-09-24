@@ -14,3 +14,4 @@ meses = {
 }
 mes = int(input())
 print(meses[mes])
+    
