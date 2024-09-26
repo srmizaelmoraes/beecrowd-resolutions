@@ -6,5 +6,4 @@ for i in range(7):
         i = i + 1
         m = m + n  
         media = m / i
-
 print("{} valores positivos\n{:.1f}".format(i, media))
