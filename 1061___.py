@@ -1,1 +1,0 @@
-duracao = int(input("Dia "))
