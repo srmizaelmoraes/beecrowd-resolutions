@@ -5,4 +5,4 @@ for i in range(6):
     if n > 0:
         p += 1
         m = m + n
-print(f"{p} valores positivos\n {m/p:.1f}")
+print(f"{p} valores positivos\n{m/p:.1f}")
